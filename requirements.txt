@@ -56,7 +56,7 @@ defusedxml==0.6.0
 descartes==1.1.0
 dill==0.3.0
 distributed==1.25.3
-django==2.2.4
+django==2.2.8
 dlib==19.16.0
 dm-sonnet==1.34
 docker-pycreds==0.4.0
