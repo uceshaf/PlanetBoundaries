@@ -235,7 +235,7 @@ pathtools==0.1.2
 patsy==0.5.1
 pexpect==4.7.0
 pickleshare==0.7.5
-pillow==4.3.0
+pillow==8.2.0
 pip-tools==3.9.0
 pip==19.2.3
 plac==0.9.6
