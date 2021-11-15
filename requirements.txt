@@ -237,7 +237,7 @@ pexpect==4.7.0
 pickleshare==0.7.5
 pillow==4.3.0
 pip-tools==3.9.0
-pip==19.2.3
+pip==21.1
 plac==0.9.6
 plotly==3.6.1
 plotnine==0.5.1
