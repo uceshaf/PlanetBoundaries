@@ -310,7 +310,7 @@ semantic-version==2.6.0
 send2trash==1.5.0
 sentry-sdk==0.11.1
 setuptools-git==1.2
-setuptools==41.2.0
+setuptools==65.5.1
 shapely==1.6.4.post2
 shortuuid==0.5.0
 simplegeneric==0.8.1
